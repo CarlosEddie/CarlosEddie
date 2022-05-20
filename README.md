@@ -18,6 +18,7 @@
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="right" src="https://github.com/CarlosEddie/CarlosEddie/blob/main/dragonmaid.gif" alt="pic" />
+<img align="right" width="40%" src="https://github.com/Felipe-dot/Felipe-dot/blob/master/developer.gif?raw=true" alt="Code Guy" />
+<img align="right" src="https://github.com/CarlosEddie/CarlosEddie/blob/main/dragonmaid.gif?raw=true" alt="pic" />
 
 </div>
