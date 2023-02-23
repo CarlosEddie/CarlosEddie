@@ -2,7 +2,7 @@
 
 ### What I'm doing:
 - 🔭 I’m currently studying Computer Science
-- 🌱 I’m currently learning Dart and Web Development
+- 🌱 I’m currently learning Mobile and Web Development
 - ⚡ Fun fact: ...
 
 <div align="center">
