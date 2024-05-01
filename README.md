@@ -1,9 +1,9 @@
 ## Hello There! I'm Carlos👋
 
 ### What I'm doing:
-- 🔭 I’m currently studying Computer Science
-- 🌱 I’m currently learning Mobile and Web Development
-- ⚡ Fun fact: ...
+- 🔭 I have a bachelor's degree in computer science
+- 🌱 I’m a Mobile and Web Developer
+- ⚡ Main Technologies: React, JavaScript, TypeScript, Vue.js, Flutter, Dart, Git e Node.js.
 
 <div align="center">
   <a href="https://github.com/CarlosEddie">
