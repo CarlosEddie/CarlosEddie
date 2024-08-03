@@ -3,7 +3,7 @@
 ### What I'm doing:
 - 🔭 I Have a Bachelor's Degree in Computer Science
 - 🌱 I’m a Mobile and Web Developer
-- ⚡ Main Technologies: React, JavaScript, TypeScript, Vue.js, Flutter, Dart, Git e Node.js.
+- ⚡ Main Technologies: React, JavaScript, TypeScript, Angular, Vue.js, Flutter, Dart, Git e Node.js.
 
 <div align="center">
   <a href="https://github.com/CarlosEddie">
