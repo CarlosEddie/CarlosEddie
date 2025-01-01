@@ -2,7 +2,7 @@
 
 ### What I'm doing:
 - 🔭 I Have a Bachelor's Degree in Computer Science
-- 🌱 I’m a Mobile and Web Developer
+- 🌱 I’m a Web and Mobile Developer
 - ⚡ Main Technologies: React, JavaScript, TypeScript, Angular, Vue.js, Flutter, Dart, Git e Node.js.
 
 <div align="center">
